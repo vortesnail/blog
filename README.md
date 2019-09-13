@@ -5,6 +5,6 @@
 ## CSS
 
 ## JavaScript
-[1.原型链继承详解](https://github.com/vortesnail/blog/issues/1)
+[1.原型链继承详解](https://github.com/vortesnail/blog/issues/1)2019.06.18
 
 ## React
