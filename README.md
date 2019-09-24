@@ -3,7 +3,7 @@
 个人技术博客，旨在对知识的总结，能帮助到别人就更好啦。
 
 ## CSS
-
+1.[如何画一个只能在已显示区域进行事件绑定的三角形](https://github.com/vortesnail/blog/issues/3) (2019.09.24)
 
 ## JavaScript
 1.[原型链继承详解](https://github.com/vortesnail/blog/issues/1) (2019.06.18) 
