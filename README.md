@@ -14,5 +14,5 @@
 ## React
 
 ## Webpack
-3.[从零配置webpack 4+react脚手架（一）](https://github.com/vortesnail/blog/issues/4)(2019.10.01)
+1.[从零配置webpack 4+react脚手架（一）](https://github.com/vortesnail/blog/issues/4)(2019.10.01)
 
