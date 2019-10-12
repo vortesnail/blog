@@ -1,6 +1,6 @@
 # 博客目录
 
-个人技术博客，旨在对知识的总结，能帮助到别人就更好啦。
+:notebook: 个人技术小文章，旨在对知识的总结，能帮助到别人就更好啦。
 
 ## CSS
 1.[如何画一个只能在已显示区域进行事件绑定的三角形](https://github.com/vortesnail/blog/issues/3) (2019.09.24)
@@ -15,4 +15,6 @@
 
 ## Webpack
 1.[从零配置webpack 4+react脚手架（一）](https://github.com/vortesnail/blog/issues/4)(2019.10.01)
+
+2.[从零配置webpack 4+react脚手架（二）](https://github.com/vortesnail/blog/issues/5)(2019.10.03)
 
