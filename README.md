@@ -18,3 +18,5 @@
 
 2.[从零配置webpack 4+react脚手架（二）](https://github.com/vortesnail/blog/issues/5)(2019.10.03)
 
+3.[从零配置webpack 4+react脚手架（三）](https://github.com/vortesnail/blog/issues/6)(2019.10.13)
+
