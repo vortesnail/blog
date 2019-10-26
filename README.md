@@ -22,3 +22,5 @@
 
 4.[从零配置webpack 4+react脚手架（四）](https://github.com/vortesnail/blog/issues/7)(2019.10.14)
 
+## Git
+1.[如何部署create-react-app项目到Github pages步骤](https://github.com/vortesnail/blog/issues/8)(2019.10.25)
