@@ -10,8 +10,11 @@
 
 2.[从头到尾给你讲清楚如何实现一个new](https://github.com/vortesnail/blog/issues/2) (2019.09.13)
 
+3.[不一样的“悬停几秒后执行函数”？](https://github.com/vortesnail/blog/issues/9) (2019.10.31)
+
 
 ## React
+1.[[译]使用 React Hooks 构建电影搜索应用程序](https://github.com/vortesnail/blog/issues/10) (2019.11.03)
 
 ## Webpack
 1.[从零配置webpack 4+react脚手架（一）](https://github.com/vortesnail/blog/issues/4)(2019.10.01)
