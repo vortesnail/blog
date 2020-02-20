@@ -15,6 +15,9 @@
 ## React
 1.[[译]使用 React Hooks 构建电影搜索应用程序](https://github.com/vortesnail/blog/issues/10) (2019.11.03)
 
+## Node
+1.[node 写一个自动监听文件并读写配置的脚本](https://github.com/vortesnail/blog/issues/12) (2020.02.20)
+
 ## Webpack
 1.[从零配置webpack 4+react脚手架（一）](https://github.com/vortesnail/blog/issues/4) (2019.10.01)
 
