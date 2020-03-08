@@ -15,6 +15,9 @@
 ## React
 1.[[译]使用 React Hooks 构建电影搜索应用程序](https://github.com/vortesnail/blog/issues/10) (2019.11.03)
 
+2.[好想用Typescript+React hooks开发啊!（嘴对嘴解释）](https://github.com/vortesnail/blog/issues/13) (2020.03.09)
+
+
 ## Node
 1.[node 写一个自动监听文件并读写配置的脚本](https://github.com/vortesnail/blog/issues/12) (2020.02.20)
 
