@@ -30,6 +30,8 @@
 
 4.[从零配置webpack 4+react脚手架（四）](https://github.com/vortesnail/blog/issues/7) (2019.10.14)
 
+5.[我是这样搭建Typescript+React项目环境的！（2.7w字详解）](https://github.com/vortesnail/blog/issues/14) (2020.08.11)
+
 ## 网络
 1.[这一次，彻底理解https原理](https://github.com/vortesnail/blog/issues/11) (2020.01.06)
 
