@@ -5,6 +5,8 @@
 ## CSS
 1.[如何画一个只能在已显示区域进行事件绑定的三角形](https://github.com/vortesnail/blog/issues/3) (2019.09.24)
 
+2.[图文并茂总结7个工作中常用的css3案例，带你了解冷门却实用的特性！](https://github.com/vortesnail/blog/issues/15) (2020.10.12)
+
 ## JavaScript
 1.[原型链继承详解](https://github.com/vortesnail/blog/issues/1) (2019.06.18) 
 
