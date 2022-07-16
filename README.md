@@ -14,6 +14,8 @@
 
 3.[不一样的“悬停几秒后执行函数”？](https://github.com/vortesnail/blog/issues/9) (2019.10.31)
 
+4.[弹幕的常规设计与实现](https://github.com/vortesnail/blog/issues/20) (2022.07.16)
+
 ## React
 1.[[译]使用 React Hooks 构建电影搜索应用程序](https://github.com/vortesnail/blog/issues/10) (2019.11.03)
 
