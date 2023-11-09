@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "lib": ["es6"],
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "declaration": true
+  },
+  "include": ["src"],
+  "exclude": ["dist", "node_modules"]
+}
