@@ -56,4 +56,5 @@
 
 ## 其它
 1.[web 和 node 项目部署阿里云服务器并域名访问教程](https://github.com/vortesnail/blog/issues/22)（2023.06.29）
+
 2.[部署阿里云云函数舒畅无阻的请求 Github OpenApi](https://github.com/vortesnail/blog/issues/24)（2024.01.03）
