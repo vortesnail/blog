@@ -53,3 +53,6 @@
 
 ## Git
 1.[如何部署create-react-app项目到Github pages步骤](https://github.com/vortesnail/blog/issues/8) (2019.10.25)
+
+## 其它
+1.[web 和 node 项目部署阿里云服务器并域名访问教程](https://github.com/vortesnail/blog/issues/22)（2023.06.29）
