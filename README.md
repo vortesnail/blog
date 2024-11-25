@@ -37,6 +37,8 @@
 
 4.[Nest.js 入门与核心原理解析，从 IoC、DI、装饰器到元编程](https://github.com/vortesnail/blog/issues/23)（2023.11.10）
 
+5.[如何基于 Nest.js 设计一个评论系统](https://github.com/vortesnail/blog/issues/25)（2024.11.25）
+
 ## Webpack
 1.[从零配置webpack 4+react脚手架（一）](https://github.com/vortesnail/blog/issues/4) (2019.10.01)
 
