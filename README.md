@@ -28,6 +28,8 @@
 ## Vue
 1.[我是怎么从 React 过渡到 Vue2 的？](https://github.com/vortesnail/blog/issues/19) (2021.11.30)
 
+2.[Nuxt3 切换主题色且不闪屏该怎么做？](https://github.com/vortesnail/blog/issues/26)（2025.01.07）
+
 ## Node
 1.[node 写一个自动监听文件并读写配置的脚本](https://github.com/vortesnail/blog/issues/12) (2020.02.20)
 
