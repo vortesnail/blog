@@ -2,6 +2,10 @@
 
 :notebook: 个人技术小文章，旨在对知识的总结，能帮助到别人就更好啦。
 
+## AI
+
+1.[超详细的云服务部署 OpenClaw 并接入飞书全流程，别再趟坑了](https://github.com/vortesnail/blog/issues/38)
+
 ## CSS
 1.[如何画一个只能在已显示区域进行事件绑定的三角形](https://github.com/vortesnail/blog/issues/3) (2019.09.24)
 
